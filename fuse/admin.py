@@ -1,5 +1,5 @@
 from django.contrib import admin
-from fusefm.fuse.models import *
+from fuse.models import *
 
 admin.site.register(Department)
 admin.site.register(Story)
