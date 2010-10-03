@@ -89,6 +89,7 @@ INSTALLED_APPS = (
     'django.contrib.sites',
     'django.contrib.messages',
     'fuse',
+    'fuseUsers',
     # Uncomment the next line to enable the admin:
     'django.contrib.admin',
 )
